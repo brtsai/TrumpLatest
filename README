@@ -1,0 +1,9 @@
+Trump 2020
+A program that gives you the 20 latest posts on Donald Trump's facebook page.
+
+Run with the command "python trump.py"
+
+REQUIRED:
+    A working fb Graph authorisation token as the first line of the AccessToken file.
+    BeautifulSoup python library module
+    Python
