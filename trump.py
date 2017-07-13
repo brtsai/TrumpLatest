@@ -9,7 +9,7 @@ with open("AccessToken") as f:
 host = "https://graph.facebook.com"
 api_version = "v2.9"
 id_to_request = "DonaldTrump"
-fields_request = "fields=posts.limit(20)&created_time&"
+fields_request = "fields=posts.limit(20)&created_time&message&"
 
 my_request = host + "/" + api_version + "/" + id_to_request + "?" + fields_request + "access_token=" + access_token
 
