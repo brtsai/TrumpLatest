@@ -3,11 +3,6 @@ A program that gives you the 20 latest posts on Donald Trump's facebook page.
 
 Run with the command "python trump.py"
 
-REQUIRED:
-    A working fb Graph authorisation token as the first line of the AccessToken file.
-    BeautifulSoup python library module
-    Python
-
 Getting a Facebook Graph Authorisation Token:
     Go to https://developers.facebook.com/tools/explorer/
     Click on "Get Token"
