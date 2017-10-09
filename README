@@ -10,3 +10,4 @@ Getting a Facebook Graph Authorisation Token:
     Trump Latest doesn't need any particular permissions, so click on "Get Access Token"
     Copy the Access Token provided by facebook into the first line of AccessToken
 
+![](Example.png)
